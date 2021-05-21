@@ -169,33 +169,41 @@ http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271527
 #EXTINF:0,MMN SHOW ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271525
-#EXTINF:0,beIN SPORT PRE 1 ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3241
-#EXTINF:0,beIN SPORT PRE 2 ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3238
-#EXTINF:0,beIN SPORT PRE 3 ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3192
-#EXTINF:0,beIN SPORT 1 ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3191
-#EXTINF:0,beIN SPORT 2 ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3190
-#EXTINF:0,beIN SPORT 3 ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3189
-#EXTINF:0,beIN SPORT 4 ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3188
-#EXTINF:0,beIN SPORT 5 ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3187
-#EXTINF:0,beIN SPORT 6 ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3186
-#EXTINF:0,beIN SPORT 7 ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3185
+#EXTINF:-1,BeIN Sports News 4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142770
+#EXTINF:-1,BeIN SPORTS 1 Premium 4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142771
+#EXTINF:-1,BeIN SPORTS 2 Premium  4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142772
+#EXTINF:-1,BeIN SPORTS 3 Premium  4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142773
+#EXTINF:-1,BeIN SPORTS 1 4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142774
+#EXTINF:-1,BeIN SPORTS 2 4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142775
+#EXTINF:-1,BeIN SPORTS 3 4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142776
+#EXTINF:-1,BeIN SPORTS 4 4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142777
+#EXTINF:-1,BeIN SPORTS 5 4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142778
+#EXTINF:-1,BeIN SPORTS 6 4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142779
+#EXTINF:-1,BeIN SPORTS 7 4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142780
+#EXTINF:-1,BeIN SPORTS 1 EN 4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142781
+#EXTINF:-1,BeIN SPORTS 2 EN 4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142782
+#EXTINF:-1,BeIN SPORTS 3 EN 4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142783
+#EXTINF:-1,BeIN SPORTS 1 French 4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142784
+#EXTINF:-1,BeIN SPORTS 2 French 4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142785
+#EXTINF:-1,BeIN SPORTS 3 French 4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142786
+#EXTINF:-1,BeIN SPORTS XTRA 1 4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142787
+#EXTINF:-1,BeIN SPORTS XTRA 2 4K
+http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142788
