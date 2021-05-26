@@ -2,18 +2,6 @@
 
 #EXTINF:0,SANGAR TV
 https://storage.googleapis.com/sx-master/c0285dc558ac62%2Ffiles%2F1613407108667-sangartv.mp4
-#EXTINF:-1,KR │ STERK TV HD
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/24
-#EXTINF:-1,KR │ ÇİRA TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/25
-#EXTINF:-1,KR │ RONAHÎ TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/26
-#EXTINF:-1,KR │ JIN TV HD
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/27
-#EXTINF:-1,KR │ BABYLON TV HD+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/28
-#EXTINF:-1,KR │ MED MÜZİK
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/29
 #EXTINF:-1,KR │ KURDMAX HD+ KUR
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/30
 #EXTINF:-1,KR │ KURDMAX HD+ SOR
@@ -30,22 +18,16 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/35
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/36
 #EXTINF:-1,KR │ GK TV
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/37
-#EXTINF:-1,KR │ KANAL 4
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/38
 #EXTINF:-1,KR │ NET HD+
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/39
 #EXTINF:-1,KR │ K 24 HD+
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/40
-#EXTINF:-1,KR │ KNN
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/41
 #EXTINF:-1,KR │ KTV HD+
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/42
 #EXTINF:-1,KR │ VIN MUSIC
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/43
 #EXTINF:-1,KR │ A TV KURD HD+
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/44
-#EXTINF:-1,KR │ MINBIJ TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/45
 #EXTINF:-1,KR │ BANGWAZ TV
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/46
 #EXTINF:-1,KR │ ARYEN TV
@@ -68,8 +50,6 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/54
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/55
 #EXTINF:-1,KR │ SAHAR KURDI
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/56
-#EXTINF:-1,KR │ LALISH TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/57
 #EXTINF:-1,KR │ KIRKUK TV
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/58
 #EXTINF:-1,KR │ ZAROK TV
@@ -78,97 +58,8 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/59
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/60
 #EXTINF:-1,KR │ NRT 3 KIDS
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/61
-#EXTINF:0,Biaban Family ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dreamsat-iptv.top:8080/DM_Snappyarr/adfsgbhgsvdfv/271451
-#EXTINF:0,Biaban Movies ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271452
-#EXTINF:0,Biaban Music ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271453
-#EXTINF:0,Biaban Sport ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271454
-#EXTINF:0,ASTERA FAMILY ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://iptvtree.net:8080/vpngenerators/635ee5a5e7/147455
-#EXTINF:0,ASTERA SHOW ᴴᴰ
-http://iptvtree.net:8080/vpngenerators/635ee5a5e7/193422
-#EXTINF:0,ASTERA SPORT ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://iptvtree.net:8080/vpngenerators/635ee5a5e7/147456
-#EXTINF:0,RENG SPORT ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271552
 #EXTINF:0,ZED PULS ᴴᴰ
 http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/338
-#EXTINF:0,KRD DOCUMENTARY ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271499
-#EXTINF:0,KRD BOLLYWOOD ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271490
-#EXTINF:0,KRD WWE ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271512
-#EXTINF:0,BMC TV ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271457
-#EXTINF:0,CHARA TV ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271458
-#EXTINF:0,BININ TV ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271455
-#EXTINF:0,INFINTY ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271481
-#EXTINF:0,KURDSHOW ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271517
-#EXTINF:0,KURDSHOW MOVIES ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271519
-#EXTINF:0,KURDSHOW KIDS ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271518
-#EXTINF:0,DIMEN TV ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271465
-#EXTINF:0,HAVRANG ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271474
-#EXTINF:0,NEWMAX BOX OFFICE ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271535
-#EXTINF:0,NEWMAX BOX MUSIC ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271538
-#EXTINF:0,NIGA Family ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271540
-#EXTINF:0,NIGA MOVIES ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271542
-#EXTINF:0,NIGA KIDS ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271541
-#EXTINF:0,NEW LINE 1 ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271533
-#EXTINF:0,NEW LINE 2 ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271534
-#EXTINF:0,MMN SPORT ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271531
-#EXTINF:0,MMN MOVIES ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271527
-#EXTINF:0,MMN SHOW ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.8.05
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271525
 #EXTINF:-1,BeIN Sports News 4K
 http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142770
 #EXTINF:-1,BeIN SPORTS 1 Premium 4K
