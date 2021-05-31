@@ -42,12 +42,32 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/55
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/56
 #EXTINF:-1,KR │ KIRKUK TV
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/58
+#EXTINF:-1,afarinTV HD
+http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1,KR │ ZAROK TV
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/59
 #EXTINF:-1,KR │ NRT 3 KIDS
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/61
 #EXTINF:0,ZED PULS ᴴᴰ
 http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/338
+#EXTINF:0a,ljazeera HD
+https://live-hls-web-aja.getaj.net/AJA/04.m3u8
+#EXTINF:0a,SKY NEWS ARABIC  ᴴᴰ
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:0a,National-AbuDhabi HD
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0a,Ajyal HD
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:0a,Quran Kareem HD
+http://m.live.net.sa:1935/live/quran/chunklist.m3u8
+#EXTINF:0a,noordubai HD
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
+#EXTINF:0a,iranintl HD
+https://live.livetvstream.co.uk/LS-63503-3/tracks-v2a1/mono.m3u8
+#EXTINF:0a,BBC NEWS HD
+http://185.99.253.46:8000/play/a03u
+#EXTINF:0a,TRT WORLD HD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1,BeIN SPORTS 1 Premium 
 http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142771
 #EXTINF:-1,BeIN SPORTS 2 Premium 
