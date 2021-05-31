@@ -236,6 +236,36 @@ http://dream4k.co:8080/DM_DREAMSATENTERTAIMENT/hhfAUXT7/52533
 #EXTINF:0,BEIN FOOD ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_DREAMSATENTERTAIMENT/hhfAUXT7/52525
+#EXTINF:0,NetFlix Movies ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/224239
+#EXTINF:0,NetFlix Drama ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/224238
+#EXTINF:0,NetFlix Bollywood ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/224237
+#EXTINF:0,NetFlix Action ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/178229
+#EXTINF:0,NetFlix BoxOffice ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/178230
+#EXTINF:0,NetFlix Kids ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/178231
+#EXTINF:0,NetFlix Thriler ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/178232
+#EXTINF:0,NetFlix Horror ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/178234
+#EXTINF:0,NetFlix Turkish ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/224249
+#EXTINF:0,NetFlix Fr ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/224240
 #EXTINF:0a,ljazeera HD
 https://live-hls-web-aja.getaj.net/AJA/04.m3u8
 #EXTINF:0a,SKY NEWS ARABIC  ᴴᴰ
