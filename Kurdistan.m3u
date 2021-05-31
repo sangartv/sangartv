@@ -68,9 +68,509 @@ https://live.livetvstream.co.uk/LS-63503-3/tracks-v2a1/mono.m3u8
 http://185.99.253.46:8000/play/a03u
 #EXTINF:0a,TRT WORLD HD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1,BeIN SPORTS 1 Premium 
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142771
-#EXTINF:-1,BeIN SPORTS 2 Premium 
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142772
-#EXTINF:-1,BeIN SPORTS 3 Premium 
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142773
+#EXTINF:-1,BS | beINsport HD
+http://nomorecable.xyz:80/lava123/lava123/43413
+#EXTINF:-1,BS | bein sport UHD
+http://nomorecable.xyz:80/lava123/lava123/43426
+#EXTINF:-1,BS | beIN Sport1 HD
+http://nomorecable.xyz:80/lava123/lava123/43428
+#EXTINF:-1,BS | beIN Sport1 HD+
+http://nomorecable.xyz:80/lava123/lava123/43429
+#EXTINF:-1,BS | beIN Sport2 HD
+http://nomorecable.xyz:80/lava123/lava123/43433
+#EXTINF:-1,BS | beIN Sport2 HD+
+http://nomorecable.xyz:80/lava123/lava123/43434
+#EXTINF:-1,BS | beIN Sport4 HD
+http://nomorecable.xyz:80/lava123/lava123/43439
+#EXTINF:-1,BS | beIN Sport4 HD+
+http://nomorecable.xyz:80/lava123/lava123/43440
+#EXTINF:-1,BS | beIN Sport5 HD
+http://nomorecable.xyz:80/lava123/lava123/43442
+#EXTINF:-1,BS | beIN Sport5 HD+
+http://nomorecable.xyz:80/lava123/lava123/43443
+#EXTINF:-1,BS | beIN Sport6 hd
+http://nomorecable.xyz:80/lava123/lava123/43444
+#EXTINF:-1,BS | beIN Sport6 HD+
+http://nomorecable.xyz:80/lava123/lava123/43445
+#EXTINF:-1,BS | beIN Sport7 HD
+http://nomorecable.xyz:80/lava123/lava123/43447
+#EXTINF:-1,BS | beIN Sport7 HD+
+http://nomorecable.xyz:80/lava123/lava123/43448
+#EXTINF:-1,BS | beIN Sport8 HD
+http://nomorecable.xyz:80/lava123/lava123/43451
+#EXTINF:-1,BS | beIN Sport8 HD+
+http://nomorecable.xyz:80/lava123/lava123/43452
+#EXTINF:-1,BS | beIN Sport9 HD
+http://nomorecable.xyz:80/lava123/lava123/43454
+#EXTINF:-1,BS | beIN Sport9 HD+
+http://nomorecable.xyz:80/lava123/lava123/43455
+#EXTINF:-1,BS | beIN SPORT10 HD
+http://nomorecable.xyz:80/lava123/lava123/43424
+#EXTINF:-1,BS | beIN Sport10 HD+
+http://nomorecable.xyz:80/lava123/lava123/43431
+#EXTINF:-1,BS | beIN Sport6 UHD
+http://nomorecable.xyz:80/lava123/lava123/43446
+#EXTINF:-1,BS | Bein-Sport 9 FHD
+http://nomorecable.xyz:80/lava123/lava123/43475
+#EXTINF:-1,BS | bein-Sport10 HD
+http://nomorecable.xyz:80/lava123/lava123/43457
+#EXTINF:-1,BS | BEINSPORT 6 FH
+http://nomorecable.xyz:80/lava123/lava123/43499
+#EXTINF:-1,BS | BEIN SPORT 6 FUHD
+http://nomorecable.xyz:80/lava123/lava123/43500
+#EXTINF:-1,BS | BEINSPORT 8 FH
+http://nomorecable.xyz:80/lava123/lava123/43507
+#EXTINF:-1,BS | BEINSPORT 8 FHD
+http://nomorecable.xyz:80/lava123/lava123/43505
+#EXTINF:-1,BS | BEINSPORT 6 FHD
+http://nomorecable.xyz:80/lava123/lava123/43498
+#EXTINF:-1,BS | bein sport 8 FUHD
+http://nomorecable.xyz:80/lava123/lava123/43466
+#EXTINF:-1,BS | BEINSPORT 9 FH
+http://nomorecable.xyz:80/lava123/lava123/43509
+#EXTINF:-1,BS | BEINSPORT 9 FHD
+http://nomorecable.xyz:80/lava123/lava123/43510
+#EXTINF:-1,BS | BEIN SPORT9 FUHD
+http://nomorecable.xyz:80/lava123/lava123/43508
+#EXTINF:-1,UK | BBC News HD
+http://nomorecable.xyz:80/lava123/lava123/2156
+#EXTINF:-1,UK | BBC News SD
+http://nomorecable.xyz:80/lava123/lava123/2157
+#EXTINF:-1,UK | BBC Parliament
+http://nomorecable.xyz:80/lava123/lava123/2174
+#EXTINF:-1,UK | BBC Scotland HD
+http://nomorecable.xyz:80/lava123/lava123/2159
+#EXTINF:-1,UK | BBC1 HD
+http://nomorecable.xyz:80/lava123/lava123/1940
+#EXTINF:-1,UK | BBC1 SD
+http://nomorecable.xyz:80/lava123/lava123/1941
+#EXTINF:-1,UK | BBC2 HD
+http://nomorecable.xyz:80/lava123/lava123/1942
+#EXTINF:-1,UK | BBC2 SD
+http://nomorecable.xyz:80/lava123/lava123/1943
+#EXTINF:-1,UK | BBC4 HD
+http://nomorecable.xyz:80/lava123/lava123/1944
+#EXTINF:-1,UK | CBBC HD
+http://nomorecable.xyz:80/lava123/lava123/2144
+#EXTINF:-1,UK | CBBC SD
+http://nomorecable.xyz:80/lava123/lava123/2145
+#EXTINF:-1,UK | CBS Drama
+http://nomorecable.xyz:80/lava123/lava123/2006
+#EXTINF:-1,UK | CBS Justice
+http://nomorecable.xyz:80/lava123/lava123/2005
+#EXTINF:-1,UK | CBS Reality
+http://nomorecable.xyz:80/lava123/lava123/2004
+#EXTINF:-1,UK | Challenge
+http://nomorecable.xyz:80/lava123/lava123/2003
+#EXTINF:-1,UK | Channel 4 HD
+http://nomorecable.xyz:80/lava123/lava123/1948
+#EXTINF:-1,UK | Channel 4 SD
+http://nomorecable.xyz:80/lava123/lava123/1949
+#EXTINF:-1,UK | Channel 5 HD
+http://nomorecable.xyz:80/lava123/lava123/1950
+#EXTINF:-1,UK | Channel 5 SD
+http://nomorecable.xyz:80/lava123/lava123/1951
+#EXTINF:-1,UK | CITV
+http://nomorecable.xyz:80/lava123/lava123/2148
+#EXTINF:-1,UK | Dave
+http://nomorecable.xyz:80/lava123/lava123/1964
+#EXTINF:-1,UK | Crime Investigation
+http://nomorecable.xyz:80/lava123/lava123/2127
+#EXTINF:-1,UK | Discovery Channel
+http://nomorecable.xyz:80/lava123/lava123/2116
+#EXTINF:-1,UK | Discovery History
+http://nomorecable.xyz:80/lava123/lava123/2119
+#EXTINF:-1,UK | Discovery Science
+http://nomorecable.xyz:80/lava123/lava123/2118
+#EXTINF:-1,UK | Discovery Turbo
+http://nomorecable.xyz:80/lava123/lava123/2117
+#EXTINF:-1,UK | AnimalPlanet
+http://nomorecable.xyz:80/lava123/lava123/2114
+#EXTINF:-1,UK | E!
+http://nomorecable.xyz:80/lava123/lava123/2008
+#EXTINF:-1,UK | E! HD
+http://nomorecable.xyz:80/lava123/lava123/2007
+#EXTINF:-1,UK | W HD
+http://nomorecable.xyz:80/lava123/lava123/2179
+#EXTINF:-1,UK | Gold
+http://nomorecable.xyz:80/lava123/lava123/1962
+#EXTINF:-1,UK | History
+http://nomorecable.xyz:80/lava123/lava123/2129
+#EXTINF:-1,UK | Home & Health
+http://nomorecable.xyz:80/lava123/lava123/2032
+#EXTINF:-1,UK | Kiss
+http://nomorecable.xyz:80/lava123/lava123/2071
+#EXTINF:-1,UK | MTV Base
+http://nomorecable.xyz:80/lava123/lava123/2065
+#EXTINF:-1,UK | MTV Classic
+http://nomorecable.xyz:80/lava123/lava123/2067
+#EXTINF:-1,UK | MTV Club
+http://nomorecable.xyz:80/lava123/lava123/2069
+#EXTINF:-1,UK | MTV Hits
+http://nomorecable.xyz:80/lava123/lava123/2063
+#EXTINF:-1,UK | MTV Music
+http://nomorecable.xyz:80/lava123/lava123/2066
+#EXTINF:-1,UK | MTV OMG
+http://nomorecable.xyz:80/lava123/lava123/2068
+#EXTINF:-1,UK | MTV Rocks
+http://nomorecable.xyz:80/lava123/lava123/2064
+#EXTINF:-1,UK | Nat Geo
+http://nomorecable.xyz:80/lava123/lava123/2121
+#EXTINF:-1,UK | Nat Geo Wild
+http://nomorecable.xyz:80/lava123/lava123/2123
+#EXTINF:-1,UK | Paramount
+http://nomorecable.xyz:80/lava123/lava123/1958
+#EXTINF:-1,UK | Pick
+http://nomorecable.xyz:80/lava123/lava123/2009
+#EXTINF:-1,UK | Really
+http://nomorecable.xyz:80/lava123/lava123/2010
+#EXTINF:-1,UK | RTE News
+http://nomorecable.xyz:80/lava123/lava123/1982
+#EXTINF:-1,UK | RTE1 HD
+http://nomorecable.xyz:80/lava123/lava123/1932
+#EXTINF:-1,UK | RTE1 SD
+http://nomorecable.xyz:80/lava123/lava123/1933
+#EXTINF:-1,UK | RTE2 HD
+http://nomorecable.xyz:80/lava123/lava123/1934
+#EXTINF:-1,UK | S4C
+http://nomorecable.xyz:80/lava123/lava123/2022
+#EXTINF:-1,UK | Sky Cinema Hits HD
+http://nomorecable.xyz:80/lava123/lava123/2050
+#EXTINF:-1,UK | Sky Witness
+http://nomorecable.xyz:80/lava123/lava123/1956
+#EXTINF:-1,UK | Sky Witness HD
+http://nomorecable.xyz:80/lava123/lava123/1955
+#EXTINF:-1,UK | Sky News
+http://nomorecable.xyz:80/lava123/lava123/2155
+#EXTINF:-1,UK | Sky News HD
+http://nomorecable.xyz:80/lava123/lava123/2154
+#EXTINF:-1,UK | Sky2
+http://nomorecable.xyz:80/lava123/lava123/1989
+#EXTINF:-1,UK | SyFy
+http://nomorecable.xyz:80/lava123/lava123/1972
+#EXTINF:-1,UK | H2
+http://nomorecable.xyz:80/lava123/lava123/2131
+#EXTINF:-1,UK | Betfred TV
+http://nomorecable.xyz:80/lava123/lava123/2173
+#EXTINF:-1,UK | Pop
+http://nomorecable.xyz:80/lava123/lava123/2150
+#EXTINF:-1,UK | Yesterday
+http://nomorecable.xyz:80/lava123/lava123/2029
+#EXTINF:-1,UK | 5USA
+http://nomorecable.xyz:80/lava123/lava123/2024
+#EXTINF:-1,UK | 4Seven HD
+http://nomorecable.xyz:80/lava123/lava123/1998
+#EXTINF:-1,UK | 4Seven
+http://nomorecable.xyz:80/lava123/lava123/1999
+#EXTINF:-1,UK | More 4
+http://nomorecable.xyz:80/lava123/lava123/1997
+#EXTINF:-1,UK | More4 HD
+http://nomorecable.xyz:80/lava123/lava123/1996
+#EXTINF:-1,UK | E4 HD
+http://nomorecable.xyz:80/lava123/lava123/1994
+#EXTINF:-1,UK | E4
+http://nomorecable.xyz:80/lava123/lava123/1995
+#EXTINF:-1,UK | Quest HD
+http://nomorecable.xyz:80/lava123/lava123/2000
+#EXTINF:-1,UK | TLC
+http://nomorecable.xyz:80/lava123/lava123/1988
+#EXTINF:-1,UK | Alibi
+http://nomorecable.xyz:80/lava123/lava123/1991
+#EXTINF:-1,UK | Fox
+http://nomorecable.xyz:80/lava123/lava123/1986
+#EXTINF:-1,UK | Sky Arts
+http://nomorecable.xyz:80/lava123/lava123/1984
+#EXTINF:-1,UK | MTV
+http://nomorecable.xyz:80/lava123/lava123/1981
+#EXTINF:-1,UK | AMC
+http://nomorecable.xyz:80/lava123/lava123/1973
+#EXTINF:-1,UK | MTV HD
+http://nomorecable.xyz:80/lava123/lava123/1980
+#EXTINF:-1,UK | Channel 5 FHD
+http://nomorecable.xyz:80/lava123/lava123/49550
+#EXTINF:-1,UK | MTV FHD
+http://nomorecable.xyz:80/lava123/lava123/49545
+#EXTINF:-1,UK | TLC FHD
+http://nomorecable.xyz:80/lava123/lava123/49543
+#EXTINF:-1,UK | Quest FHD
+http://nomorecable.xyz:80/lava123/lava123/2001
+#EXTINF:-1,UK | Eden FHD
+http://nomorecable.xyz:80/lava123/lava123/2132
+#EXTINF:-1,UK | H2 FHD
+http://nomorecable.xyz:80/lava123/lava123/2130
+#EXTINF:-1,UK | SKY HISTORY FHD
+http://nomorecable.xyz:80/lava123/lava123/2128
+#EXTINF:-1,UK | Crime Investigation HD
+http://nomorecable.xyz:80/lava123/lava123/2126
+#EXTINF:-1,UK | Nat Geo Wild HD
+http://nomorecable.xyz:80/lava123/lava123/2122
+#EXTINF:-1,UK | Nat Geo HD
+http://nomorecable.xyz:80/lava123/lava123/2120
+#EXTINF:-1,UK | Love Nature HD
+http://nomorecable.xyz:80/lava123/lava123/74978
+#EXTINF:-1,UK | Animal Planet HD
+http://nomorecable.xyz:80/lava123/lava123/2113
+#EXTINF:-1,UK | Discovery HD
+http://nomorecable.xyz:80/lava123/lava123/2115
+#EXTINF:-1,UK | Paramount FHD
+http://nomorecable.xyz:80/lava123/lava123/1957
+#EXTINF:-1,UK | 5Select
+http://nomorecable.xyz:80/lava123/lava123/2026
+#EXTINF:-1,UK | Syfy HD
+http://nomorecable.xyz:80/lava123/lava123/1971
+#EXTINF:-1,UK | Gold FHD
+http://nomorecable.xyz:80/lava123/lava123/1961
+#EXTINF:-1,UK | Sky Atlantic FHD
+http://nomorecable.xyz:80/lava123/lava123/1954
+#EXTINF:-1,UK | Sky1 FHD
+http://nomorecable.xyz:80/lava123/lava123/1952
+#EXTINF:-1,UK | TG4 SD
+http://nomorecable.xyz:80/lava123/lava123/1939
+#EXTINF:-1,UK | Sky Arts FHD
+http://nomorecable.xyz:80/lava123/lava123/1983
+#EXTINF:-1,UK | TRAVEL CHANNEL
+http://nomorecable.xyz:80/lava123/lava123/50682
+#EXTINF:-1,UK | Blaze
+http://nomorecable.xyz:80/lava123/lava123/2019
+#EXTINF:-1,UK | DMAX
+http://nomorecable.xyz:80/lava123/lava123/97069
+#EXTINF:-1,UK | UTV HD
+http://nomorecable.xyz:80/lava123/lava123/74979
+#EXTINF:-1,UK | Fox FHD
+http://nomorecable.xyz:80/lava123/lava123/1985
+#EXTINF:-1,UK | Dave FHD
+http://nomorecable.xyz:80/lava123/lava123/1963
+#EXTINF:-1,UK | Alibi FHD
+http://nomorecable.xyz:80/lava123/lava123/1990
+#EXTINF:-1,UK | ITVbe
+http://nomorecable.xyz:80/lava123/lava123/2028
+#EXTINF:-1,UK | ITV4 SD
+http://nomorecable.xyz:80/lava123/lava123/1979
+#EXTINF:-1,UK | ITV3 SD
+http://nomorecable.xyz:80/lava123/lava123/1977
+#EXTINF:-1,UK | ITV2 SD
+http://nomorecable.xyz:80/lava123/lava123/1975
+#EXTINF:-1,UK | ITV1 SD
+http://nomorecable.xyz:80/lava123/lava123/1947
+#EXTINF:-1,UK | ITV4 HD
+http://nomorecable.xyz:80/lava123/lava123/1978
+#EXTINF:-1,UK | ITV3 HD
+http://nomorecable.xyz:80/lava123/lava123/1976
+#EXTINF:-1,UK | ITV2 HD
+http://nomorecable.xyz:80/lava123/lava123/1974
+#EXTINF:-1,UK | ITV1 HD
+http://nomorecable.xyz:80/lava123/lava123/1946
+#EXTINF:-1,UK | ITV 3 FHD
+http://nomorecable.xyz:80/lava123/lava123/49547
+#EXTINF:-1,UK | ITV 2 FHD
+http://nomorecable.xyz:80/lava123/lava123/49548
+#EXTINF:-1,UK | ITV 1 FHD
+http://nomorecable.xyz:80/lava123/lava123/49549
+#EXTINF:-1,UK | ITVbe FHD
+http://nomorecable.xyz:80/lava123/lava123/2027
+#EXTINF:-1,UK | VIRGIN MEDIA 1
+http://nomorecable.xyz:80/lava123/lava123/88797
+#EXTINF:-1,UK | VIRGIN MEDIA 2
+http://nomorecable.xyz:80/lava123/lava123/88798
+#EXTINF:-1,UK | VIRGIN MEDIA 3
+http://nomorecable.xyz:80/lava123/lava123/88799
+#EXTINF:-1,UK| Sky Witness
+http://nomorecable.xyz:80/lava123/lava123/92782
+#EXTINF:-1,UK | Quest Red
+http://nomorecable.xyz:80/lava123/lava123/97070
+#EXTINF:-1,UK | CNN International
+http://nomorecable.xyz:80/lava123/lava123/97073
+#EXTINF:-1,UK | Comedy Central HD
+http://nomorecable.xyz:80/lava123/lava123/97074
+#EXTINF:-1,UK | Rangers FC TV ( Live Event}
+http://nomorecable.xyz:80/lava123/lava123/108243
+#EXTINF:-1,***** UK | Sports *****
+http://nomorecable.xyz:80/lava123/lava123/0
+#EXTINF:-1,UK | PDC DARTS 1
+http://nomorecable.xyz:80/lava123/lava123/74882
+#EXTINF:-1,UK | PDC DARTS 2
+http://nomorecable.xyz:80/lava123/lava123/74883
+#EXTINF:-1,UK | PDC 3 Stay Home
+http://nomorecable.xyz:80/lava123/lava123/106535
+#EXTINF:-1,UK | Eir Sport 1 HD
+http://nomorecable.xyz:80/lava123/lava123/2107
+#EXTINF:-1,UK | Eir Sport 2 HD
+http://nomorecable.xyz:80/lava123/lava123/1840
+#EXTINF:-1,UK | Euro Sport 2 FHD
+http://nomorecable.xyz:80/lava123/lava123/2093
+#EXTINF:-1,UK | Euro Sport 2 HD
+http://nomorecable.xyz:80/lava123/lava123/2092
+#EXTINF:-1,UK | Euro Sport 1 FHD
+http://nomorecable.xyz:80/lava123/lava123/2091
+#EXTINF:-1,UK | Euro Sport 1 HD
+http://nomorecable.xyz:80/lava123/lava123/2090
+#EXTINF:-1,UK | Freesports HD
+http://nomorecable.xyz:80/lava123/lava123/2112
+#EXTINF:-1,UK | Premier Sports 2 HD
+http://nomorecable.xyz:80/lava123/lava123/2170
+#EXTINF:-1,UK | Premier Sports 1 HD
+http://nomorecable.xyz:80/lava123/lava123/2172
+#EXTINF:-1,UK | Racing UK HD
+http://nomorecable.xyz:80/lava123/lava123/2105
+#EXTINF:-1,UK | Racing UK FHD
+http://nomorecable.xyz:80/lava123/lava123/2106
+#EXTINF:-1,UK | Sky Sports Mix FHD
+http://nomorecable.xyz:80/lava123/lava123/46192
+#EXTINF:-1,UK | Sky Sports Mix HD
+http://nomorecable.xyz:80/lava123/lava123/2087
+#EXTINF:-1,UK | Sky Sports NFL FHD
+http://nomorecable.xyz:80/lava123/lava123/46198
+#EXTINF:-1,UK | Sky Sports Arena FHD
+http://nomorecable.xyz:80/lava123/lava123/2083
+#EXTINF:-1,UK | Sky Sports Arena HD
+http://nomorecable.xyz:80/lava123/lava123/2082
+#EXTINF:-1,UK | Sky Sports Football FHD
+http://nomorecable.xyz:80/lava123/lava123/2085
+#EXTINF:-1,UK | Sky Sports Football HD
+http://nomorecable.xyz:80/lava123/lava123/2084
+#EXTINF:-1,UK | Sky Sports Main Event FHD
+http://nomorecable.xyz:80/lava123/lava123/2075
+#EXTINF:-1,UK | Sky Sports Main Event HD
+http://nomorecable.xyz:80/lava123/lava123/46193
+#EXTINF:-1,UK | Sky Sports News FHD
+http://nomorecable.xyz:80/lava123/lava123/2089
+#EXTINF:-1,UK | Sky Sports News HD
+http://nomorecable.xyz:80/lava123/lava123/2088
+#EXTINF:-1,UK | Sky Sports Premier League FHD
+http://nomorecable.xyz:80/lava123/lava123/2081
+#EXTINF:-1,UK | Sky Sports Premier League HD
+http://nomorecable.xyz:80/lava123/lava123/2080
+#EXTINF:-1,UK | Sky Sports Racing HD
+http://nomorecable.xyz:80/lava123/lava123/114112
+#EXTINF:-1,UK | Sky Sports Racing FHD
+http://nomorecable.xyz:80/lava123/lava123/114113
+#EXTINF:-1,UK | Sky Sports F1 FHD
+http://nomorecable.xyz:80/lava123/lava123/46196
+#EXTINF:-1,UK | Sky Sports F1 HD
+http://nomorecable.xyz:80/lava123/lava123/74881
+#EXTINF:-1,UK | SKY SPORTS GOLF FHD
+http://nomorecable.xyz:80/lava123/lava123/77374
+#EXTINF:-1,UK | SKY SPORTS GOLF HD
+http://nomorecable.xyz:80/lava123/lava123/77373
+#EXTINF:-1,UK | Sky Sports Cricket HD
+http://nomorecable.xyz:80/lava123/lava123/106736
+#EXTINF:-1,UK | Sky Sports Cricket FHD
+http://nomorecable.xyz:80/lava123/lava123/106737
+#EXTINF:-1,UK | SKY SPORTS CRICKET HD
+http://nomorecable.xyz:80/lava123/lava123/102372
+#EXTINF:-1,UK | BT Sport ESPN FHD
+http://nomorecable.xyz:80/lava123/lava123/71301
+#EXTINF:-1,UK | BT Sport ESPN HD
+http://nomorecable.xyz:80/lava123/lava123/71300
+#EXTINF:-1,UK | BT Sport 1 FHD
+http://nomorecable.xyz:80/lava123/lava123/2095
+#EXTINF:-1,UK | BT Sport 2 FHD
+http://nomorecable.xyz:80/lava123/lava123/2097
+#EXTINF:-1,UK | BT Sport 3 FHD
+http://nomorecable.xyz:80/lava123/lava123/2099
+#EXTINF:-1,UK | BT Sport 1 HD
+http://nomorecable.xyz:80/lava123/lava123/2094
+#EXTINF:-1,UK | BT Sport 2 HD
+http://nomorecable.xyz:80/lava123/lava123/2096
+#EXTINF:-1,UK | BT Sport 3 HD
+http://nomorecable.xyz:80/lava123/lava123/2098
+#EXTINF:-1,UK | BoxNation HD
+http://nomorecable.xyz:80/lava123/lava123/2111
+#EXTINF:-1,UK | Boxnation SD
+http://nomorecable.xyz:80/lava123/lava123/46188
+#EXTINF:-1,UK | LFC TV
+http://nomorecable.xyz:80/lava123/lava123/109209
+#EXTINF:-1,UK | Chelsea TV HD
+http://nomorecable.xyz:80/lava123/lava123/109211
+#EXTINF:-1,UK | MUTV
+http://nomorecable.xyz:80/lava123/lava123/109210
+#EXTINF:-1,UK | Rangers FC TV ( Live Event}
+http://nomorecable.xyz:80/lava123/lava123/108243
+#EXTINF:-1,***** UK | Movies *****
+http://nomorecable.xyz:80/lava123/lava123/0
+#EXTINF:-1,UK | Sky Cinema Greats
+http://nomorecable.xyz:80/lava123/lava123/2037
+#EXTINF:-1,UK | Sky Cinema Drama and Romance
+http://nomorecable.xyz:80/lava123/lava123/2035
+#EXTINF:-1,UK | Lifetime
+http://nomorecable.xyz:80/lava123/lava123/2013
+#EXTINF:-1,UK | Sky Cinema Premier
+http://nomorecable.xyz:80/lava123/lava123/2033
+#EXTINF:-1,UK | TCM FHD
+http://nomorecable.xyz:80/lava123/lava123/2057
+#EXTINF:-1,UK | Film4
+http://nomorecable.xyz:80/lava123/lava123/2055
+#EXTINF:-1,UK | Lifetime FHD
+http://nomorecable.xyz:80/lava123/lava123/2012
+#EXTINF:-1,UK | Sky Cinema Select FHD
+http://nomorecable.xyz:80/lava123/lava123/2054
+#EXTINF:-1,UK | Sky Cinema Thriller HD
+http://nomorecable.xyz:80/lava123/lava123/2048
+#EXTINF:-1,UK | Sky Cinema Comedy FHD
+http://nomorecable.xyz:80/lava123/lava123/2046
+#EXTINF:-1,UK | Sky Cinema Action And Adventure FHD
+http://nomorecable.xyz:80/lava123/lava123/2044
+#EXTINF:-1,UK | Sky Cinema Disney FHD
+http://nomorecable.xyz:80/lava123/lava123/2040
+#EXTINF:-1,UK | Sky Cinema Greats FHD
+http://nomorecable.xyz:80/lava123/lava123/2038
+#EXTINF:-1,UK | Sky Cinema Drama and Romance FHD
+http://nomorecable.xyz:80/lava123/lava123/2036
+#EXTINF:-1,UK | Sky Cinema Premier FHD
+http://nomorecable.xyz:80/lava123/lava123/2034
+#EXTINF:-1,UK | Sky Cinema Family FHD
+http://nomorecable.xyz:80/lava123/lava123/2042
+#EXTINF:-1,UK | Sky Cinema Sci Fi and Horror FHD
+http://nomorecable.xyz:80/lava123/lava123/2052
+#EXTINF:-1,UK | Sky Cinema Hits HD
+http://nomorecable.xyz:80/lava123/lava123/2050
+#EXTINF:-1,UK | Drama
+http://nomorecable.xyz:80/lava123/lava123/2016
+#EXTINF:-1,UK | Universal HD
+http://nomorecable.xyz:80/lava123/lava123/97071
+#EXTINF:-1,***** UK | Kids *****
+http://nomorecable.xyz:80/lava123/lava123/0
+#EXTINF:-1,UK | Disney Channel
+http://nomorecable.xyz:80/lava123/lava123/2135
+#EXTINF:-1,UK | Disney Channel HD
+http://nomorecable.xyz:80/lava123/lava123/2134
+#EXTINF:-1,UK | Disney XD
+http://nomorecable.xyz:80/lava123/lava123/79301
+#EXTINF:-1,UK | Disney XD HD
+http://nomorecable.xyz:80/lava123/lava123/79300
+#EXTINF:-1,UK | Disney Junior
+http://nomorecable.xyz:80/lava123/lava123/79302
+#EXTINF:-1,UK | babytv
+http://nomorecable.xyz:80/lava123/lava123/79297
+#EXTINF:-1,UK | Boomerang
+http://nomorecable.xyz:80/lava123/lava123/79308
+#EXTINF:-1,UK | Cartoon Network
+http://nomorecable.xyz:80/lava123/lava123/79317
+#EXTINF:-1,UK | Cartoon Network HD
+http://nomorecable.xyz:80/lava123/lava123/79316
+#EXTINF:-1,UK | Cartoonito
+http://nomorecable.xyz:80/lava123/lava123/79318
+#EXTINF:-1,UK | CBBC HD
+http://nomorecable.xyz:80/lava123/lava123/79319
+#EXTINF:-1,UK | CBeebies HD
+http://nomorecable.xyz:80/lava123/lava123/79310
+#EXTINF:-1,UK | CBeebies SD
+http://nomorecable.xyz:80/lava123/lava123/79311
+#EXTINF:-1,UK | CITV
+http://nomorecable.xyz:80/lava123/lava123/79312
+#EXTINF:-1,UK | Nick HD
+http://nomorecable.xyz:80/lava123/lava123/79303
+#EXTINF:-1,UK | Nick Junior
+http://nomorecable.xyz:80/lava123/lava123/79307
+#EXTINF:-1,UK | Nick Junior HD
+http://nomorecable.xyz:80/lava123/lava123/79306
+#EXTINF:-1,UK | Nick Toons
+http://nomorecable.xyz:80/lava123/lava123/79305
+#EXTINF:-1,UK | Nickelodeon
+http://nomorecable.xyz:80/lava123/lava123/79304
+#EXTINF:-1,UK | Pop
+http://nomorecable.xyz:80/lava123/lava123/79314
+#EXTINF:-1,UK | Tiny Pop
+http://nomorecable.xyz:80/lava123/lava123/79315
+#EXTINF:-1,UK | Tiny Pop
+http://nomorecable.xyz:80/lava123/lava123/79313
