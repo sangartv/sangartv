@@ -42,12 +42,12 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/55
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/56
 #EXTINF:-1,KR │ KIRKUK TV
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/58
-#EXTINF:-1,afarinTV HD
-http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1,KR │ ZAROK TV
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/59
 #EXTINF:-1,KR │ NRT 3 KIDS
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/61
+#EXTINF:-1,afarinTV HD
+http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 #EXTINF:0,KRD DOCUMENTARY ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271499
@@ -63,9 +63,21 @@ http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271455
 #EXTINF:0,INFINTY ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271481
+#EXTINF:0,  iBaby HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271478
+#EXTINF:0,  iMovies Action HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271479
+#EXTINF:0,  iMovies HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271480
 #EXTINF:0,KURDSHOW ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271517
+#EXTINF:0,|KRD|  Kurd Show Doc HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271516
 #EXTINF:0,KURDSHOW MOVIES ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271519
@@ -122,6 +134,72 @@ http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271527
 #EXTINF:0,MMN SHOW ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271525
+#EXTINF:0,|KRD|  JoJo MaMa HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271483
+#EXTINF:0,|KRD|  Kani HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271486
+#EXTINF:0,|KRD|  Kaziwa	TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271487
+#EXTINF:0,|KRD|  Krd Badini Movies HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271488
+#EXTINF:0,|KRD|  Krd Cartoon 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271492
+#EXTINF:0,|KRD|  Krd Cartoon 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271493
+#EXTINF:0,|KRD|  Krd Cinema 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271494
+#EXTINF:0,|KRD|  Krd Cinema 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271495
+#EXTINF:0,|KRD|  Krd Cinema 3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271496
+#EXTINF:0,|KRD|  Krd Cinema HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271497
+#EXTINF:0,|KRD|  Peshmarga TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271547
+#EXTINF:0,|KRD|  Qellat HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271548
+#EXTINF:0,|KRD|  Rasan HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271549
+#EXTINF:0,|KRD|  Reng Document HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271550
+#EXTINF:0,|KRD|  Reng TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271553
+#EXTINF:0,|KRD|  Rojgar
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271554
+#EXTINF:0,|KRD|  Sada HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271556
+#EXTINF:0,|KRD|  Sema HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271557
+#EXTINF:0,|KRD|  Shaista TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271558
+#EXTINF:0,|KRD|  Shakrok Kids TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271559
+#EXTINF:0,|KRD|  Srusht HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271565
+#EXTINF:0,|KRD|  Super TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271566
 #EXTINF:0,beIN SPORT PRE 1 ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3241
@@ -152,6 +230,12 @@ http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3186
 #EXTINF:0,beIN SPORT 7 ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3185
+#EXTINF:0,beIN Sports XTRA 1 Hevc
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/243094
+#EXTINF:0,beIN Sports XTRA 2 Hevc
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/243100
 #EXTINF:0,OSN YAHALA ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_DREAMSATOSN/b9Gq5Ke2/65038
