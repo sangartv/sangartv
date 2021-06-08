@@ -20,8 +20,6 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/39
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/40
 #EXTINF:-1,KR │ KTV HD+
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/42
-#EXTINF:-1,KR │ A TV KURD HD+
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/44
 #EXTINF:-1,KR │ ARYEN TV
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/47
 #EXTINF:-1,KR │ SPEDA TV HD+
@@ -72,10 +70,10 @@ http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271479
 #EXTINF:0,  iMovies HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271480
-#EXTINF:0,KURDSHOW ᴴᴰ
+#EXTINF:0,  KURDSHOW ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271517
-#EXTINF:0,|KRD|  Kurd Show Doc HD
+#EXTINF:0, Kurd Show Doc HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271516
 #EXTINF:0,KURDSHOW MOVIES ᴴᴰ
@@ -84,11 +82,6 @@ http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271519
 #EXTINF:0,KURDSHOW KIDS ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271518
-#EXTINF:0,Kani HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271486
-#EXTINF:0,ZED PULS ᴴᴰ
-http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/338
 #EXTINF:0,DIMEN TV ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271465
@@ -107,9 +100,6 @@ http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271462
 #EXTINF:0,Dasinya Kids ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271463
-#EXTINF:0,NEWMAX BOX OFFICE ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271535
 #EXTINF:0,NEWMAX BOX MUSIC ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271538
@@ -140,7 +130,7 @@ http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271483
 #EXTINF:0,|KRD|  Kani HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271486
-#EXTINF:0,|KRD|  Kaziwa	TV
+#EXTINF:0,|KRD|  Kaziwa HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271487
 #EXTINF:0,|KRD|  Krd Badini Movies HD
@@ -173,15 +163,9 @@ http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271548
 #EXTINF:0,|KRD|  Rasan HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271549
-#EXTINF:0,|KRD|  Reng Document HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271550
 #EXTINF:0,|KRD|  Reng TV HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271553
-#EXTINF:0,|KRD|  Rojgar
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271554
 #EXTINF:0,|KRD|  Sada HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271556
@@ -191,13 +175,7 @@ http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271557
 #EXTINF:0,|KRD|  Shaista TV HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271558
-#EXTINF:0,|KRD|  Shakrok Kids TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271559
-#EXTINF:0,|KRD|  Srusht HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271565
-#EXTINF:0,|KRD|  Super TV HD
+#EXTINF:0,|KRD|  KURD TV HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271566
 #EXTINF:0,beIN SPORT PRE 1 ᴴᴰ
@@ -230,12 +208,6 @@ http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3186
 #EXTINF:0,beIN SPORT 7 ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3185
-#EXTINF:0,beIN Sports XTRA 1 Hevc
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/243094
-#EXTINF:0,beIN Sports XTRA 2 Hevc
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/243100
 #EXTINF:0,OSN YAHALA ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_DREAMSATOSN/b9Gq5Ke2/65038
@@ -257,15 +229,9 @@ http://dream4k.co:8080/DM_DREAMSATOSN/b9Gq5Ke2/65063
 #EXTINF:0,OSN DISNEP MOVIES ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_DREAMSATOSN/b9Gq5Ke2/65071
-#EXTINF:0,OSN E ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dream4k.co:8080/DM_DREAMSATOSN/b9Gq5Ke2/65077
 #EXTINF:0,OSN DOCU BOX ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_DREAMSATOSN/b9Gq5Ke2/65091
-#EXTINF:0,OSN HISTORY ᴴᴰ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dream4k.co:8080/DM_DREAMSATOSN/b9Gq5Ke2/65082
 #EXTINF:0,BEIN BOX OFFICE 1 ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_DREAMSATENTERTAIMENT/hhfAUXT7/188996
@@ -368,10 +334,6 @@ https://live.livetvstream.co.uk/LS-63503-3/tracks-v2a1/mono.m3u8
 http://185.99.253.46:8000/play/a03u
 #EXTINF:0a,TRT WORLD HD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1,BS | beINsport HD
-http://nomorecable.xyz:80/lava123/lava123/43413
-#EXTINF:-1,BS | bein sport UHD
-http://nomorecable.xyz:80/lava123/lava123/43426
 #EXTINF:-1,BS | beIN Sport1 HD
 http://nomorecable.xyz:80/lava123/lava123/43428
 #EXTINF:-1,BS | beIN Sport1 HD+
