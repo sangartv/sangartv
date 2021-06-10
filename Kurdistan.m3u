@@ -206,6 +206,12 @@ http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271558
 #EXTINF:0,|KRD|  KURD TV HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/271566
+#EXTINF:0,beIN SPORTS MAX 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/287659
+#EXTINF:0,beIN SPORTS MAX 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/287660
 #EXTINF:0,beIN SPORT PRE 1 ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3241
