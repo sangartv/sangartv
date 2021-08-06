@@ -46,7 +46,72 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/59
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/61
 #EXTINF:-1,afarinTV HD
 http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
-
+#EXTINF:0,DRAGON ACTION TV
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/20
+#EXTINF:0,DRAGON HORROR TV
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/21
+#EXTINF:0,NETFLIX HORROR TV
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/16
+#EXTINF:0,NETFLIX KIDS TV
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/17
+#EXTINF:0,NETFLIX ARABIC TV
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/18
+#EXTINF:0,NETFLIX ACTION TV
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/114
+#EXTINF:0,HBO MAX ARABIC
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/147
+#EXTINF:0,MASHA TV
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/58
+#EXTINF:0,MOVEIS ACTION 1 TV
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/62
+#EXTINF:0,weyyak action
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/127
+#EXTINF:0,weyyak drama
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/128
+#EXTINF:0,weyyak live
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/129
+#EXTINF:0,weyyak nawaem
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/130
+#EXTINF:0,HBO MAX ANIME
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/148
+#EXTINF:0,HBO MAX HINDI
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/149
+#EXTINF:0,HBO MAX ENGLISH
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/150
+#EXTINF:0,Toyoraljanah
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/165
+#EXTINF:0,Tom and Jerry tv
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/167
+#EXTINF:0,SHAHID ACTION TV
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/24
+#EXTINF:0,SHAHID HORROR TV
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/25
+#EXTINF:0,SHAHID KIDS TV
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/26
+#EXTINF:0,SHAHID ARABIAC TV
+#EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
+http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/27
 #EXTINF:0,|beIN| beIN BEIN CINEMA
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_DREAMSATENTERTAIMENT/hhfAUXT7/188995
