@@ -46,6 +46,9 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/59
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/61
 #EXTINF:-1,afarinTV HD
 http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:0,beIN SPORT PRE 1 ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3241
 #EXTINF:0,DRAGON ACTION TV
 #EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
 http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/20
