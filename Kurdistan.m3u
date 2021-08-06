@@ -49,6 +49,39 @@ http://afarinTV.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 #EXTINF:0,beIN SPORT PRE 1 ᴴᴰ
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3241
+#EXTINF:0,beIN SPORT PRE 2 ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3238
+#EXTINF:0,beIN SPORT PRE 3 ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3192
+#EXTINF:0,beIN SPORT 1 ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3191
+#EXTINF:0,beIN SPORT 2 ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3190
+#EXTINF:0,beIN SPORT 3 ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3189
+#EXTINF:0,beIN SPORT 4 ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3188
+#EXTINF:0,beIN SPORT 5 ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3187
+#EXTINF:0,beIN SPORT 6 ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3186
+#EXTINF:0,beIN SPORT 7 ᴴᴰ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3185
+#EXTINF:0,beIN Sports XTRA 1 Hevc
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/243094
+#EXTINF:0,beIN Sports XTRA 2 Hevc
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/243100
 #EXTINF:0,DRAGON ACTION TV
 #EXTVLCOPT:http-user-agent=Jsisjsjsisijdhtrysywuioaoowo
 http://ricoootv.xyz:8080/Ricotvonlin/Iejidijdjdji/20
