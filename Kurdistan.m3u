@@ -1,5 +1,56 @@
 #EXTINF:0,SANGAR TV
 https://storage.googleapis.com/sx-master/c0285dc558ac62%2Ffiles%2F1613407108667-sangartv.mp4
+#EXTINF:-1,NRT HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294836
+#EXTINF:-1,NRT2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294837
+#EXTINF:-1,KURDMAX HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294830
+#EXTINF:-1,NewLine 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294767
+#EXTINF:-1,NewLine 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294768
+#EXTINF:-1,Binin HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294927
+#EXTINF:-1,KURD SHOW HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294753
+#EXTINF:-1,KURD SHOW DOC HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294752
+#EXTINF:-1,KURD SHOW Movies HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294755
+#EXTINF:-1,KURD SHOW Kids HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294754
+#EXTINF:-1,Niga Family HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294771
+#EXTINF:-1,Niga Movies HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294773
+#EXTINF:-1,Niga Kids HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294772
+#EXTINF:-1,MMN DOC HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294760
+#EXTINF:-1,MMN Movies HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294762
+#EXTINF:-1,TRT HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/33806
+#EXTINF:-1,ATV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/33801
 #EXTINF:-1,Biaban Sport HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294708
