@@ -1,164 +1,103 @@
 #EXTINF:0,SANGAR TV
 https://storage.googleapis.com/sx-master/c0285dc558ac62%2Ffiles%2F1613407108667-sangartv.mp4
+#EXTM3U
+
 #EXTINF:-1,NRT HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/294836
 #EXTINF:-1,NRT2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294837
 #EXTINF:-1,KURDSAT HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/294832
 #EXTINF:-1,KURDSAT NEWS HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/294831
 #EXTINF:-1,KURDMAX HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294830
 #EXTINF:-1,KURDMAX SHOW HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/294828
 #EXTINF:-1,NewLine 1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294767
 #EXTINF:-1,NewLine 2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294768
 #EXTINF:-1,Binin HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294927
-#EXTINF:-1,KURD SHOW HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294753
-#EXTINF:-1,KURD SHOW DOC HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294752
-#EXTINF:-1,KURD SHOW Movies HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294755
-#EXTINF:-1,KURD SHOW Kids HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294754
 #EXTINF:-1,Niga Family HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294771
 #EXTINF:-1,Niga Movies HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294773
-#EXTINF:-1,Niga Kids HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294772
 #EXTINF:-1,JOJO MAMA HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/294722
 #EXTINF:-1,MMN DOC HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294760
 #EXTINF:-1,MMN Movies HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294762
 #EXTINF:-1,RENG  HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/294782
 #EXTINF:-1,RENG DOC HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/294780
 #EXTINF:-1,RENG SPORT HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/294781
 #EXTINF:-1,Dasinya Sport HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/294911
-#EXTINF:-1,DHOUK Sport HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/294714
 #EXTINF:-1,MMN Sport HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/294766
 #EXTINF:-1,Biaban Sport HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294708
 #EXTINF:-1,Biaban Movies HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294706
 #EXTINF:-1,Biaban Family HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294705
 #EXTINF:-1,Biaban Music HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/294707
 #EXTINF:-1,SIMA HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/294923
-#EXTINF:-1,ZED HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/294925
 #EXTINF:-1,TRT HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/33806
 #EXTINF:-1,ATV HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/33801
 #EXTINF:-1,Varzesh HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296280
 #EXTINF:-1,IRIB 3 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296279
-#EXTINF:-1,|PT| SPORT TV + HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439362
-#EXTINF:-1,|PT| SPORT TV 1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439363
-#EXTINF:-1,|PT| SPORT TV 1 HD NOS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439364
-#EXTINF:-1,|PT| SPORT TV 2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439365
-#EXTINF:-1,|PT| SPORT TV 2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439366
-#EXTINF:-1,|PT| SPORT TV 3 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439367
-#EXTINF:-1,|PT| SPORT TV 4 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439368
-#EXTINF:-1,|PT| SPORT TV 5 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439369
-#EXTINF:-1,|PT| ELEVEN SPORTS 1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439371
-#EXTINF:-1,|PT| ELEVEN SPORTS 2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439372
-#EXTINF:-1,|PT| ELEVEN SPORTS 3 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439373
-#EXTINF:-1,|PT| ELEVEN SPORTS 4 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439374
-#EXTINF:-1,|PT| ELEVEN SPORTS 5 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439375
-#EXTINF:-1,|PT| ELEVEN SPORTS 6 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439376
 #EXTINF:-1,CANAL+SPORT 1 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://one.dream4ktv.biz:2082/live/DM_Snappyarr/adfsgbhgsvdfv/224116.ts
 #EXTINF:-1,CANAL+SPORT 2 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://one.dream4ktv.biz:2082/live/DM_Snappyarr/adfsgbhgsvdfv/224117.ts
 #EXTINF:-1,CANAL+SPORT 3 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://one.dream4ktv.biz:2082/live/DM_Snappyarr/adfsgbhgsvdfv/224118.ts
 #EXTINF:-1,CANAL+SPORT 4 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://one.dream4ktv.biz:2082/live/DM_Snappyarr/adfsgbhgsvdfv/224119.ts
 #EXTINF:-1,CANAL+SPORT 5 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.46
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://one.dream4ktv.biz:2082/live/DM_Snappyarr/adfsgbhgsvdfv/224120.ts
