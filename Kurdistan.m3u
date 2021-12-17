@@ -15,12 +15,12 @@ http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467660
 #EXTINF:-1,Kurdsat News HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467802
-#EXTINF:-1,Gali Kurdistan TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467791
 #EXTINF:-1,NRT 1 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467689
+#EXTINF:-1,NRT 2 HD Sorani
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467690
 #EXTINF:-1,Iraqia Kurdish TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467792
@@ -48,9 +48,9 @@ http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467698
 #EXTINF:-1,Payam TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467808
-#EXTINF:-1,NRT 2 HD Sorani
+#EXTINF:-1,KurdMax Sorani HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467690
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467801
 #EXTINF:-1,KurdMax manji HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467798
@@ -60,9 +60,6 @@ http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467799
 #EXTINF:-1,KurdMax Showrmanji HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467800
-#EXTINF:-1,KurdMax Sorani HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467801
 #EXTINF:-1,Net TV HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467805
@@ -90,18 +87,12 @@ http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467681
 #EXTINF:-1,NewMax Music HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467760
-#EXTINF:-1,Krd Show HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467743
 #EXTINF:-1,Heva HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467708
 #EXTINF:-1,MMN Classic Musical
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467748
-#EXTINF:-1,iMovies HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467710
 #EXTINF:-1,Niga Family HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467761
@@ -114,12 +105,6 @@ http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467752
 #EXTINF:-1,MMN Show HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467755
-#EXTINF:-1,Movies 1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467730
-#EXTINF:-1,Movies 2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467731
 #EXTINF:-1,NewLine 1 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467757
@@ -129,36 +114,18 @@ http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467758
 #EXTINF:-1,Cihan HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467665
-#EXTINF:-1,Binin
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467666
-#EXTINF:-1,Zed TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467668
-#EXTINF:-1,Bask
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467670
-#EXTINF:-1,Halabja TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467675
 #EXTINF:-1,Sema TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467676
 #EXTINF:-1,Niber TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467677
-#EXTINF:-1,Amed TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467678
 #EXTINF:-1,Kani TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467679
 #EXTINF:-1,Dasinya HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467680
-#EXTINF:-1,Dasinya Sport
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467682
 #EXTINF:-1,Dasinya Kids
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467683
@@ -174,12 +141,6 @@ http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467691
 #EXTINF:-1,NRT 4 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467692
-#EXTINF:-1,Duhok TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467693
-#EXTINF:-1,Tishk TV HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467694
 #EXTINF:-1,RONAHI TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467695
@@ -195,12 +156,6 @@ http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467707
 #EXTINF:-1,iBaby HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467709
-#EXTINF:-1,JoJo MaMa HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467712
-#EXTINF:-1,Judy HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467713
 #EXTINF:-1,KaziwaTV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467714
