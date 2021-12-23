@@ -153,15 +153,21 @@ http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467683
 #EXTINF:-1,Berfrin TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467684
-#EXTINF:-1,Krd Show Kids
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467744
 #EXTINF:-1,Krd Show Movies
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467745
+#EXTINF:-1,Krd Show Kids
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467744
+#EXTINF:-1,JoJo MaMa HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467712
 #EXTINF:-1,Zarok TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467685
+#EXTINF:-1,Helhelok TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467707
 #EXTINF:-1,NRT 3 Kids HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467691
@@ -177,9 +183,9 @@ http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467696
 #EXTINF:-1,Sahar TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467697
-#EXTINF:-1,Helhelok TV
+#EXTINF:-1,KURD TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467707
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467746
 #EXTINF:-1,KaziwaTV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467714
