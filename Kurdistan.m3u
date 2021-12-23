@@ -132,6 +132,12 @@ http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467683
 #EXTINF:-1,Berfrin TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467684
+#EXTINF:-1,Krd Show Kids
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467744
+#EXTINF:-1,Krd Show Movies
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467745
 #EXTINF:-1,Zarok TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/467685
