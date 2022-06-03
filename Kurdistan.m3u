@@ -8,12 +8,10 @@ http://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
 https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
 #EXTINF:-1,NRT 1 HD
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
-#EXTINF:-1,Speda TV HD
-http://cdn.liveshell.net:1935/live/speda084k/playlist.m3u8
 #EXTINF:-1,Payam TV
 https://5ab29cc78f681.streamlock.net/PayamTV/livestream/chunklist.m3u8
 #EXTINF:0,Kurd Channel HD
-https://server12.ikomg.live/hls/kurd.m3u8
+http://kurd-channel.ikoflix.com/hls/kurd-channel.m3u8
 #EXTINF:0,Chaw HD
 http://baskhd.ddns.net:40/live/chawhd/playlist.m3u8
 #EXTINF:0,MMN documentary ᴴᴰ
